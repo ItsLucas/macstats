@@ -15,7 +15,7 @@ categories = ["command-line-utilities", "os"]
 keywords = ["macos", "smc", "cpu"]
 
 [dependencies.macsmc]
-version = "0.1"
+path = "macsmc"
 
 [profile.release]
 opt-level = 2
